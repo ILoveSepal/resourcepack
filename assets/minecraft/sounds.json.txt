@@ -1,0 +1,9 @@
+{
+	"music_disc.memory": {
+	  "sounds": [
+	    {
+	      "name": "records/memory"
+	    }
+	  ]
+	}
+}
