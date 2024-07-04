@@ -2,7 +2,8 @@
 	"music_disc.memory": {
 	  "sounds": [
 	    {
-	      "name": "records/memory"
+	      "name": "records/memory",
+	      "stream": true
 	    }
 	  ]
 	}
